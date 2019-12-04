@@ -1,8 +1,8 @@
 ![UB](https://github.com/mayurs142/eas503-project/blob/media/ub_logo.png?raw=true)
 # EAS 503 - Project Group 20
 ### Team Members:
-> Gaurav Chatterjee
-> Mayur Sinha
+> Gaurav Chatterjee <br>
+> Mayur Sinha <br>
 > Megha Shirodkar
 
 ### Introduction
