@@ -1,4 +1,4 @@
-﻿temp,location,clouds,pressure,rain,time_stamp,humidity,wind
+temp,location,clouds,pressure,rain,time_stamp,humidity,wind
 42.42,Back Bay,1,1012.14,0.1228,1545003901,0.77,11.25
 42.43,Beacon Hill,1,1012.15,0.1846,1545003901,0.76,11.32
 42.5,Boston University,1,1012.15,0.1089,1545003901,0.76,11.07
